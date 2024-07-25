@@ -19,12 +19,7 @@
 # Screenshots 📸
 <div display="inline" align="center">
 
-<p>Manhã</p>
-<img src= "imagens/manhaph.png"></img>
-<p>Tarde</p>
-<img src= "imagens/tardeph.png"></img>
-<p>Noite</p>
-<img src= "imagens/noiteph.png"></img>
+[...]
 
 </div>
 
